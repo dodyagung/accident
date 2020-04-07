@@ -1,0 +1,6 @@
+# accident
+Dataset of Indonesia's Traffic Accident from Twitter
+
+This repo is archived.
+
+Most updated dataset has been moved to https://www.kaggle.com/dodyagung/accident due to GitHub 1 GB Git-LFS limitation.
